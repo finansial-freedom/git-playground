@@ -1,2 +1,2 @@
 # git-playground
-git-playground
+freature-squash
